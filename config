@@ -190,4 +190,4 @@ exec --no-startup-id pia
 
 ## Starting SVP4 with mpv to automatically take the server input for SVP4
 ## This assumes that MPV is already properly configured to take the best settings within SVP4
-exec --no-startup-id /home/god/SVP\ 4/SVPManager 
+exec --no-startup-id ~/SVP\ 4/SVPManager 
